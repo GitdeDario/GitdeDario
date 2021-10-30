@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dario @GitdeDario
 - 👀 I’m interested in learn evrything
 - 🌱 I’m currently learning web programming with python
-- 💞️ I’m looking to collaborate on ... I don't knwo. I'm testing
+- 💞️ I’m looking to collaborate on ... I don't know. I'm testing
 - 📫 dariogss@gmail.com
 
 <!---
